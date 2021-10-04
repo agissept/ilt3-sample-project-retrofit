@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IL3Sample</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="retrofit_coroutine">Retrofit With Coroutine</string>
+</resources>
